@@ -15,18 +15,16 @@ Softeer OSS는 Softeer 연수생들이 다양한 오픈소스 활동을 할 수 
 - Slack의 가입 신청 폼을 통해 가입을 신청해주세요. 폼을 제출하게되면 입력한 폼의 github ID로 초대가 전송됩니다.  
 
 
-### 👀 [게시판]() 살펴보기
+### 👀 [게시판](https://github.com/Softeer-OSS/discussions/discussions) 살펴보기
 
 > 소프티어 Github Organization에서 OSS 프로젝트 활성화에 참여하고 싶다면 아래 링크들을 참고해주세요.
 
-- [☕️ 라운지]()
-- [💬 프로젝트 공유]()
-- [❓ 개발관련 이슈 질문/답변]()
+- [☕️ 라운지](https://github.com/Softeer-OSS/discussions/discussions/categories/%EB%9D%BC%EC%9A%B4%EC%A7%80)
+- [💬 프로젝트 공유](https://github.com/Softeer-OSS/discussions/discussions/categories/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%B5%EC%9C%A0)
+- [❓ 개발관련 질문/답변](https://github.com/Softeer-OSS/discussions/discussions/categories/%EC%A7%88%EB%AC%B8-%EB%8B%B5%EB%B3%80)
 
 
 ### ☝️ 커뮤니티 규칙 
-
-> 자세한 사항은 [공지사항:커뮤니티 규칙]()을 참고해주세요
 
  1. 사려깊게 행동해주세요
  2. 서로를 존중해 주세요
@@ -39,7 +37,7 @@ Softeer OSS는 Softeer 연수생들이 다양한 오픈소스 활동을 할 수 
 
 > Organization에 대한 문의 또는 비공개 요청이 필요한 경우, 아래의 이메일로 연락해주세요.
 > 
-> 또는 [프로젝트 제안]() 게시판을 통해 제안을 해주셔도 됩니다.
+> 또는 [질문/답변](https://github.com/Softeer-OSS/discussions/discussions/categories/%EC%A7%88%EB%AC%B8-%EB%8B%B5%EB%B3%80) 게시판을 통해 제안을 해주셔도 됩니다.
 
 - **권기호** | [@Chocochip101](https://github.com/Chocochip101) | dev.chocochip@gmail.com (Softeer 2기 연수생)
 - [Softeer](https://www.softeerbootcamp.com/) 소프티어 운영팀
